@@ -1,0 +1,14 @@
+{
+  "name": "quiz.generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "env": "export GOOGLE_APPLICATION_CREDENTIALS=\"./quiz-2e3f7-firebase-adminsdk-dwgge-6c42bae866.json\""
+  },
+  "author": "wldyslw",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^8.9.0"
+  }
+}
